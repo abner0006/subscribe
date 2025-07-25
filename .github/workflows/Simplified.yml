@@ -1,0 +1,52 @@
+name: Daily Job ☞ Simplified
+on:
+  # 1. 自动触发：根目录 .txt 文件更新时运行
+  push:
+    paths:
+      - "*.txt"  # 仅监听根目录的 .txt 文件
+  # 2. 定时触发：每天 UTC 时间 16 点运行（北京时间 0 点）
+  schedule:
+    - cron: '0 16 * * *'  
+  # 3. 手动触发：保留原有入口
+  workflow_dispatch:
+    inputs:
+      keep_lines:
+        description: '每组保留重复频道数'
+        required: false
+        default: '1'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+
+    steps:
+      - name: 拉取代码（锁定 main 分支）
+        uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: 执行脚本（处理文件 + 强制覆盖）
+        env:
+          # 手动触发时用输入值，自动/定时触发时用默认值 1
+          KEEP_LINES: ${{ github.event.inputs.keep_lines || '1' }}  
+        run: python assets/Simplified/Simplified.py
+
+
+      - name: 强制提交变更（自动/定时/手动统一逻辑）
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f output/Simplified/  
+          git commit -m "自动触发更新: $(date +'%Y%m%d %H:%M')"  
+          git push origin main --force  
+
+      - name: 调试（检查结果）
+        run: |
+          echo "✅ 更新完成，触发源：${{ github.event_name }}"

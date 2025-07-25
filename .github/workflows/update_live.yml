@@ -1,0 +1,45 @@
+name: 'Daily Job ☞ update_live'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 19 1 * *'
+
+jobs:
+  update-live:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行更新脚本
+        run: |
+          cd assets/snapshot/
+          python update_live.py  
+
+      - name: 无条件推送（暴力覆盖）
+        run: |
+          # 配置 Git 身份
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          
+          # 强制添加文件（不管本地状态）
+          git add assets/snapshot/live.txt  
+          
+          # 提交（失败也继续，用 || true 跳过错误）
+          git commit -m "自动更新直播源: $(date +'%Y-%m-%d %H:%M')" || true  
+          
+          # 强制推送（覆盖远程，无视冲突）
+          git push origin main --force  

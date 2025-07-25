@@ -1,0 +1,56 @@
+name: 订阅源自动更新 ☞ snapshot
+
+on:
+  workflow_dispatch:  # 手动触发按钮
+  schedule:
+    - cron: '0 17 1 * *'  # 每月运行一次
+
+jobs:
+  safe-run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 拉取代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 🐍 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 安装依赖
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: 🚀 运行下载脚本（带哈希校验）
+        run: |
+          TODAY=$(date +'%Y-%m-%d')
+          mkdir -p assets/snapshot/$TODAY
+          python assets/snapshot/snapshot.py
+
+      - name: 🧹 清理 7 天前旧快照目录
+        run: |
+          find assets/snapshot -type d -name "20*-*-*" -mtime +7 -exec rm -rf {} \;
+
+      - name: 🔍 检查是否有变化（含新增或删除）
+        id: check_changes
+        run: |
+          if [ -n "$(git status --porcelain assets/snapshot/)" ]; then
+              echo "should_commit=true" >> $GITHUB_OUTPUT
+          else
+              echo "should_commit=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: ✅ 提交变更（仅当有变化）
+        if: steps.check_changes.outputs.should_commit == 'true'
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add assets/snapshot/
+          git commit -m "📦 更新快照: $(date +'%Y-%m-%d')"
+          git push origin main --force
