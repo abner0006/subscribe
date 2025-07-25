@@ -15777,7 +15777,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]kohavision,https://stream1.freetv.fun/kohavision-2.m3u8
 [BD]rtv,https://stream1.freetv.fun/rtv-1.m3u8
 [HD]rtv 21 albania,https://stream1.freetv.fun/rtv-21-albania-1.m3u8
-[HD]tptv,https://stream1.freetv.fun/tptv-5.m3u8
 [HD]tis tv,https://stream1.freetv.fun/tis-tv-1.m3u8
 [HD]tptv,https://stream1.freetv.fun/tptv-1.m3u8
 [BD]tptv,https://stream1.freetv.fun/tptv-4.m3u8
@@ -16169,6 +16168,8 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]cctv15,https://stream1.freetv.fun/cctv15-77.m3u8
 [BD]cctv15,https://stream1.freetv.fun/cctv15-93.m3u8
 [BD]cctv15,https://stream1.freetv.fun/cctv15-38.ctv
+[BD]cctv15,https://stream1.freetv.fun/cctv15-85.m3u8
+[SD]cctv15,https://stream1.freetv.fun/cctv15-36.ctv
 [BD]cctv15,https://stream1.freetv.fun/cctv15-20.m3u8
 [BD]cctv15,https://stream1.freetv.fun/cctv15-23.m3u8
 [BD]cctv15,https://stream1.freetv.fun/cctv15-82.m3u8
@@ -16198,6 +16199,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]cctv17,https://stream1.freetv.fun/cctv17-40.m3u8
 [BD]cctv17,https://stream1.freetv.fun/cctv17-19.m3u8
 [SD]cctv17,https://stream1.freetv.fun/cctv17-39.m3u8
+[BD]cctv17,https://stream1.freetv.fun/cctv17-7.m3u8
 [BD]cctv17,https://stream1.freetv.fun/cctv17-23.m3u8
 [BD]cctv17,https://stream1.freetv.fun/cctv17-3.m3u8
 [SD]cctv17,https://stream1.freetv.fun/cctv17-53.m3u8
@@ -16294,7 +16296,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]cctv5 plus,https://stream1.freetv.fun/cctv5-plus-63.m3u8
 [HD]cctv-5 plus体育赛事,https://stream1.freetv.fun/cctv-5-plusti-yu-sai-shi-1.m3u8
 [BD]cctv5 plus,https://stream1.freetv.fun/cctv5-plus-2.m3u8
-[BD]cctv5 plus,https://stream1.freetv.fun/cctv5-plus-33.m3u8
 [BD]cctv5 plus,https://stream1.freetv.fun/cctv5-plus-57.m3u8
 [BD]cctv5 plus,https://stream1.freetv.fun/cctv5-plus-32.m3u8
 [SD]cctv plus 2,https://stream1.freetv.fun/cctv-plus-2-1.m3u8
@@ -16333,7 +16334,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]cctv7,https://stream1.freetv.fun/cctv7-62.m3u8
 [BD]cctv7,https://stream1.freetv.fun/cctv7-55.m3u8
 [SD]cctv7,https://stream1.freetv.fun/cctv7-9.m3u8
-[SD]cctv7,https://stream1.freetv.fun/cctv7-20.m3u8
 [BD]cctv7,https://stream1.freetv.fun/cctv7-44.m3u8
 [BD]cctv7,https://stream1.freetv.fun/cctv7-84.ctv
 [BD]cctv7,https://stream1.freetv.fun/cctv7-37.ctv
@@ -16449,6 +16449,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]上虞新闻综合,https://stream1.freetv.fun/shang-yu-xin-wen-zong-he-2.m3u8
 [BD]佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-2.ctv
 [BD]佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-12.ctv
+[BD]佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-4.ctv
 [BD]佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-2.ctv
 [BD]佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-13.ctv
 [BD]佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-4.ctv
@@ -16557,7 +16558,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-4.m3u8
 [BD]南宁生活 ,https://stream1.freetv.fun/nan-zhu-sheng-huo--gao-qing-1.ctv
 [VGA]平凉新闻综合,https://stream1.freetv.fun/ping-liang-xin-wen-zong-he-2.m3u8
-[SD]辉南新闻综合,https://stream1.freetv.fun/hui-nan-xin-wen-zong-he-2.m3u8
 [VGA]平凉新闻综合,https://stream1.freetv.fun/ping-liang-xin-wen-zong-he-3.ctv
 [BD]新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-6.m3u8
 [BD]台州新闻综合,https://stream1.freetv.fun/tai-zhou-xin-wen-zong-he-5.m3u8
@@ -16615,6 +16615,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]哈尔滨资讯,https://stream1.freetv.fun/ha-er-bin-zi-xun-1.m3u8
 [SD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-26.m3u8
 [BD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-28.ctv
+[BD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-14.ctv
 [BD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-5.ctv
 [BD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-2.ctv
 [SD]嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-22.ctv
@@ -16738,6 +16739,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-52.m3u8
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-76.m3u8
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-16.m3u8
+[SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-8.ctv
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-86.ctv
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-30.m3u8
 [SD]宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-71.m3u8
@@ -16755,6 +16757,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-66.m3u8
 [BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-14.m3u8
 [BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-62.ctv
+[BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-68.m3u8
 [BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-72.m3u8
 [SD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-37.m3u8
 [BD]山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-13.m3u8
@@ -16778,6 +16781,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-93.m3u8
 [SD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-81.m3u8
 [BD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-55.ctv
+[SD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-29.m3u8
 [BD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-103.m3u8
 [SD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-17.m3u8
 [SD]山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-16.m3u8
@@ -16855,11 +16859,13 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-8.ctv
 [BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-26.m3u8
 [BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-29.ctv
+[BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 [BD]广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.m3u8
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-22.ctv
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-14.ctv
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-6.ctv
+[BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-7.ctv
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.m3u8
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
 [BD]广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-31.ctv
@@ -16874,7 +16880,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-102.m3u8
 [BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-12.m3u8
 [HD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-76.ctv
-[BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-60.ctv
 [BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-46.m3u8
 [BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-15.ctv
 [BD]广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-100.m3u8
@@ -16949,6 +16954,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-54.m3u8
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-52.m3u8
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-15.m3u8
+[SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-55.m3u8
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-41.ctv
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-10.ctv
 [SD]新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-34.m3u8
@@ -17244,6 +17250,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-23.m3u8
 [BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-75.m3u8
 [BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-66.ctv
+[BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-15.m3u8
 [BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-49.ctv
 [BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-93.m3u8
 [BD]湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-3.m3u8
@@ -17422,6 +17429,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-5.m3u8
 [HD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-23.m3u8
 [BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-4.m3u8
+[BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-75.m3u8
 [BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-19.m3u8
 [BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-27.m3u8
 [BD]辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-65.m3u8
@@ -17634,7 +17642,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]dijlah tv,https://stream1.freetv.fun/dijlah-tv-2.m3u8
 [BD]dijlah tarab,https://stream1.freetv.fun/dijlah-tarab-2.m3u8
 [BD]dijlah tarab,https://stream1.freetv.fun/dijlah-tarab-1.m3u8
-[HD]hallmark drama,https://stream1.freetv.fun/hallmark-drama-2.m3u8
+[SD]hallmark drama,https://stream1.freetv.fun/hallmark-drama-2.m3u8
 [SD]british drama,https://stream1.freetv.fun/british-drama-1.m3u8
 [HD]feel good drama,https://stream1.freetv.fun/feel-good-drama-1.m3u8
 [SD]nonstop drama,https://stream1.freetv.fun/nonstop-drama-1.m3u8
@@ -17749,7 +17757,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]discovery science,https://stream1.freetv.fun/discovery-science-16.m3u8
 [HD]discovery science *e,https://stream1.freetv.fun/discovery-science--e-1.ctv
 [HD]euro d,https://stream1.freetv.fun/euro-d-3.m3u8
-[VGA]euro d,https://stream1.freetv.fun/euro-d-2.m3u8
+[HD]euro d,https://stream1.freetv.fun/euro-d-2.m3u8
 [HD]euronews fr,https://stream1.freetv.fun/euronews-fr-2.m3u8
 [HD]euronews,https://stream1.freetv.fun/euronews-2.m3u8
 [HD]euronews ge,https://stream1.freetv.fun/euronews-ge-1.m3u8
@@ -18003,9 +18011,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]atv plus,https://stream1.freetv.fun/atv-plus-3.m3u8
 [BD]tvbplus,https://stream1.freetv.fun/tvbplus-3.m3u8
 [HD]tvb娱乐新闻,https://stream1.freetv.fun/tvbyu-le-xin-wen-7.ctv
-[BD]tvb无线新闻,https://stream1.freetv.fun/tvbwu-xian-xin-wen-3.ctv
 [BD]TVB星河,https://stream1.freetv.fun/tvbxing-he-5.m3u8
-[BD]tvb翡翠,https://stream1.freetv.fun/tvbfei-cui-2.ctv
 [BD]vpitv,https://stream1.freetv.fun/vpitv-1.m3u8
 [BD]viutv,https://stream1.freetv.fun/viutv-6.m3u8
 [BD]viutv,https://stream1.freetv.fun/viutv-12.m3u8
@@ -18016,7 +18022,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]viutv *0,https://stream1.freetv.fun/viutv--0-1.ctv
 [BD]viutv1 *wj,https://stream1.freetv.fun/viutv1--wj-1.ctv
 [BD]viutv,https://stream1.freetv.fun/viutv-8.ctv
-[BD]viutv,https://stream1.freetv.fun/viutv-2.ctv
 [BD]viutv,https://stream1.freetv.fun/viutv-3.ctv
 [BD]-viutvsix,https://stream1.freetv.fun/viutvsix-4.m3u8
 [HD]viutvsix,https://stream1.freetv.fun/viutvsix-3.ctv
@@ -18027,7 +18032,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]功夫电影,https://stream1.freetv.fun/gong-fu-dian-ying-1.m3u8
 [VGA]周润发,https://stream1.freetv.fun/zhou-run-fa-1.m3u8
 [BD]明珠,https://stream1.freetv.fun/ming-zhu-3.m3u8
-[VGA]星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv
 [BD]星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
 [SD]星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-7.m3u8
 [SD]星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-1.ctv
@@ -19029,7 +19033,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]action hollywood movies,https://stream1.freetv.fun/action-hollywood-movies-2.m3u8
 [HD]action hollywood movies,https://stream1.freetv.fun/action-hollywood-movies-4.m3u8
 [HD]tvb entertainment *0,https://stream1.freetv.fun/tvb-entertainment--0-1.ctv
-[BD]朝鲜中央电视,https://stream1.freetv.fun/zhao-xian-zhong-yang-dian-shi-1.m3u8
 [BD]oman 1,https://stream1.freetv.fun/oman-1-1.m3u8
 [BD]oman mubashir,https://stream1.freetv.fun/oman-mubashir-1.m3u8
 [BD]oman althakafia,https://stream1.freetv.fun/oman-althakafia-1.m3u8
@@ -19165,7 +19168,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]agro tv,https://stream1.freetv.fun/agro-tv-1.m3u8
 [HD]arko tv,https://stream1.freetv.fun/arko-tv-1.m3u8
 [HD]aleph news,https://stream1.freetv.fun/aleph-news-1.m3u8
-[HD]omega,https://stream1.freetv.fun/omega-1.m3u8
+[BD]omega,https://stream1.freetv.fun/omega-1.m3u8
 [HD]alfa omega tv,https://stream1.freetv.fun/alfa-omega-tv-1.m3u8
 [HD]antena 1 tv,https://stream1.freetv.fun/antena-1-tv-1.m3u8
 [HD]antena 1 ro,https://stream1.freetv.fun/antena-1-ro-1.m3u8
@@ -19313,7 +19316,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]дом кино,https://stream1.freetv.fun/dom-kino-1.m3u8
 [VGA]дом кино,https://stream1.freetv.fun/dom-kino-5.m3u8
 [SD]дом кино,https://stream1.freetv.fun/dom-kino-6.m3u8
-[VGA]домашний,https://stream1.freetv.fun/domashnii-1.m3u8
+[HD]домашний,https://stream1.freetv.fun/domashnii-1.m3u8
 [BD]живи!,https://stream1.freetv.fun/zhivi-1.m3u8
 [SD]живи,https://stream1.freetv.fun/zhivi-3.m3u8
 [BD]киносерия,https://stream1.freetv.fun/kinoseriia-2.m3u8
@@ -19328,7 +19331,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]матч боец,https://stream1.freetv.fun/match-boets-1.m3u8
 [BD]мир 24,https://stream1.freetv.fun/mir-24-3.m3u8
 [SD]мир 24,https://stream1.freetv.fun/mir-24-1.m3u8
-[VGA]муз тв,https://stream1.freetv.fun/muz-tv-1.m3u8
+[HD]муз тв,https://stream1.freetv.fun/muz-tv-1.m3u8
 [VGA]музтв,https://stream1.freetv.fun/muztv-1.m3u8
 [SD]музтв,https://stream1.freetv.fun/muztv-2.m3u8
 [BD]матур тв,https://stream1.freetv.fun/matur-tv-1.m3u8
@@ -19355,7 +19358,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]первый музыкальный канал,https://stream1.freetv.fun/pervyi-muzykal-nyi-kanal-1.m3u8
 [SD]тнв-планета,https://stream1.freetv.fun/tnv-planeta-1.m3u8
 [HD]пятница!,https://stream1.freetv.fun/piatnitsa-2.m3u8
-[VGA]рен тв,https://stream1.freetv.fun/ren-tv-4.m3u8
+[HD]рен тв,https://stream1.freetv.fun/ren-tv-4.m3u8
 [BD]360° новости,https://stream1.freetv.fun/360deg-novosti-1.m3u8
 [BD]360 новости,https://stream1.freetv.fun/360-novosti-1.m3u8
 [SD]россия 24,https://stream1.freetv.fun/rossiia-24-3.m3u8
@@ -19381,7 +19384,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]тв центр,https://stream1.freetv.fun/tv-tsentr-2.m3u8
 [SD]тнт4,https://stream1.freetv.fun/tnt4-1.m3u8
 [SD]тнт4,https://stream1.freetv.fun/tnt4-2.m3u8
-[VGA]тнт,https://stream1.freetv.fun/tnt-1.m3u8
+[HD]тнт,https://stream1.freetv.fun/tnt-1.m3u8
 [SD]тнт,https://stream1.freetv.fun/tnt-7.m3u8
 [BD]нтк тв,https://stream1.freetv.fun/ntk-tv-1.m3u8
 [BD]дом,https://stream1.freetv.fun/dom-1.ctv
@@ -19561,7 +19564,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]eet tv,https://stream1.freetv.fun/eet-tv-2.m3u8
 [HD]itn,https://stream1.freetv.fun/itn-3.m3u8
 [HD]benie tv,https://stream1.freetv.fun/benie-tv-1.m3u8
-[HD]324 tv,https://stream1.freetv.fun/324-tv-1.m3u8
+[BD]324 tv,https://stream1.freetv.fun/324-tv-1.m3u8
 [BD]qs24.tv,https://stream1.freetv.fun/qs24-tv-1.m3u8
 [HD]la popular tv,https://stream1.freetv.fun/la-popular-tv-1.m3u8
 [HD]kanal 12,https://stream1.freetv.fun/kanal-12-2.m3u8
@@ -19685,6 +19688,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]rock entertainment *e,https://stream1.freetv.fun/rock-entertainment--e-1.ctv
 [SD]rock entertaiment *3,https://stream1.freetv.fun/rock-entertaiment--3-1.ctv
 [BD]rock entertainment *wj,https://stream1.freetv.fun/rock-entertainment--wj-1.ctv
+[HD]folklore tv,https://stream1.freetv.fun/folklore-tv-1.m3u8
 [HD]smithsonian channel selects,https://stream1.freetv.fun/smithsonian-channel-selects-1.m3u8
 [SD]smithsonian channel =,https://stream1.freetv.fun/smithsonian-channel-2.ctv
 [SD]smithsonian channel ==,https://stream1.freetv.fun/smithsonian-channel-1.ctv
@@ -19699,11 +19703,9 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]tvbs *wj,https://stream1.freetv.fun/tvbs--wj-1.ctv
 [HD]tvbs news,https://stream1.freetv.fun/tvbs-news-1.m3u8
 [BD]tvbs新闻 *wj,https://stream1.freetv.fun/tvbsxin-wen---wj-1.ctv
-[HD]TVBS新闻,https://stream1.freetv.fun/tvbsxin-wen-1.m3u8
 [BD]tvbs欢乐,https://stream1.freetv.fun/tvbshuan-le-4.m3u8
 [BD]tvbs欢乐,https://stream1.freetv.fun/tvbshuan-le-1.m3u8
 [HD]tvbs精彩,https://stream1.freetv.fun/tvbsjing-cai-1.ctv
-[VGA]TVBe,https://stream1.freetv.fun/tvbe-1.m3u8
 [BD]roll,https://stream1.freetv.fun/roll-1.m3u8
 [BD]inews新闻 *0,https://stream1.freetv.fun/inewsxin-wen---0-1.ctv
 [BD]inews新闻 *wj,https://stream1.freetv.fun/inewsxin-wen---wj-1.ctv
@@ -19711,15 +19713,12 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 [HD]三立综合,https://stream1.freetv.fun/san-li-zong-he-4.m3u8
 [BD]三立台湾 *wj,https://stream1.freetv.fun/san-li-tai-wan---wj-1.ctv
-[BD]三立财经,https://stream1.freetv.fun/san-li-cai-jing-1.m3u8
-[BD]中旺电视,https://stream1.freetv.fun/zhong-wang-dian-shi-1.ctv
 [BD]中天亚洲,https://stream1.freetv.fun/zhong-tian-ya-zhou-7.m3u8
 [HD]中天亚洲 *0,https://stream1.freetv.fun/zhong-tian-ya-zhou---0-1.ctv
 [HD]中天亚洲 *wj,https://stream1.freetv.fun/zhong-tian-ya-zhou---wj-1.ctv
 [HD]中天娱乐,https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
 [HD]中天娱乐,https://stream1.freetv.fun/zhong-tian-yu-le-1.m3u8
 [BD]中天娱乐 *wj,https://stream1.freetv.fun/zhong-tian-yu-le---wj-1.ctv
-[BD]中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-6.m3u8
 [HD]中天新闻 *0,https://stream1.freetv.fun/zhong-tian-xin-wen---0-1.ctv
 [HD]中天新闻 *wj,https://stream1.freetv.fun/zhong-tian-xin-wen---wj-1.ctv
 [BD]中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
@@ -19757,7 +19756,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]国会 1,https://stream1.freetv.fun/guo-hui--1-5.m3u8
 [HD]国会 2,https://stream1.freetv.fun/guo-hui--2-2.m3u8
 [BD]大爱2台 *wj,https://stream1.freetv.fun/da-ai-2tai---wj-2.ctv
-[HD]大立电视,https://stream1.freetv.fun/da-li-dian-shi-2.m3u8
 [BD]好莱坞电影,https://stream1.freetv.fun/hao-lai-wu-dian-ying-6.ctv
 [BD]好莱坞电影,https://stream1.freetv.fun/hao-lai-wu-dian-ying-1.m3u8
 [BD]好莱坞电影 *wj,https://stream1.freetv.fun/hao-lai-wu-dian-ying---wj-1.ctv
@@ -19781,11 +19779,9 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]东森美洲2,https://stream1.freetv.fun/dong-sen-mei-zhou-2-1.m3u8
 [HD]东森财经新闻 *wj,https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---wj-1.ctv
 [HD]东森财经新闻 *0,https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---0-1.ctv
-[VGA]东森财经美洲,https://stream1.freetv.fun/dong-sen-cai-jing-mei-zhou-1.m3u8
 [HD]东森超视,rtmp://f13h.mine.nu:1935/sat/tv331
 [BD]东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-10.m3u8
 [BD]东森电影 *wj,https://stream1.freetv.fun/dong-sen-dian-ying---wj-1.ctv
-[VGA]东风卫视,https://stream1.freetv.fun/dong-feng-wei-shi-1.m3u8
 [HD]民视,https://stream1.freetv.fun/min-shi-10.m3u8
 [HD]民视 *0,https://stream1.freetv.fun/min-shi---0-1.ctv
 [HD]民视 *wj,https://stream1.freetv.fun/min-shi---wj-1.ctv
@@ -19905,7 +19901,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]28 kanala,https://stream1.freetv.fun/28-kanala-1.m3u8
 [HD]kanal 32,https://stream1.freetv.fun/kanal-32-1.ctv
 [BD]kanal avrupa,https://stream1.freetv.fun/kanal-avrupa-2.m3u8
-[SD]kanal b,https://stream1.freetv.fun/kanal-b-1.ctv
 [HD]kral - kral pop,https://stream1.freetv.fun/kral---kral-pop-2.m3u8
 [HD]music pop,https://stream1.freetv.fun/music-pop-2.m3u8
 [HD]kral - kral pop,https://stream1.freetv.fun/kral---kral-pop-1.m3u8
@@ -19965,7 +19960,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [BD]24 канал,https://stream1.freetv.fun/24-kanal-1.m3u8
 [HD]2x2,https://stream1.freetv.fun/2x2-3.m3u8
 [SD]2x2,https://stream1.freetv.fun/2x2-2.m3u8
-[VGA]пятый канал,https://stream1.freetv.fun/piatyi-kanal-1.m3u8
+[HD]пятый канал,https://stream1.freetv.fun/piatyi-kanal-1.m3u8
 [BD]33 канал,https://stream1.freetv.fun/33-kanal-2.m3u8
 [BD]7 канал,https://stream1.freetv.fun/7-kanal-1.m3u8
 [BD]5 канал,https://stream1.freetv.fun/5-kanal-3.m3u8
@@ -20350,7 +20345,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]c-span sd,https://stream1.freetv.fun/c-span-sd-1.ctv
 [BD]catholic tv,https://stream1.freetv.fun/catholic-tv-1.m3u8
 [BD]catholic tv,https://stream1.freetv.fun/catholic-tv-3.m3u8
-[BD]makrodigital television,https://stream1.freetv.fun/makrodigital-television-1.m3u8
+[HD]makrodigital television,https://stream1.freetv.fun/makrodigital-television-1.m3u8
 [HD]buena park television,https://stream1.freetv.fun/buena-park-television-1.m3u8
 [BD]jewelry television,https://stream1.freetv.fun/jewelry-television-1.m3u8
 [HD]beverly hills television 10,https://stream1.freetv.fun/beverly-hills-television-10-1.m3u8
@@ -20374,7 +20369,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]cbs *0,https://stream1.freetv.fun/cbs--0-1.ctv
 [HD]cbs *wj,https://stream1.freetv.fun/cbs--wj-1.ctv
 [HD]mlb network,https://stream1.freetv.fun/mlb-network-5.m3u8
-[HD]yes network,https://stream1.freetv.fun/yes-network-2.ctv
+[SD]yes network,https://stream1.freetv.fun/yes-network-2.ctv
 [HD]cbs sports network usa,https://stream1.freetv.fun/cbs-sports-network-usa-1.m3u8
 [HD]mlb network,https://stream1.freetv.fun/mlb-network-4.m3u8
 [HD]cbs sports network usa,https://stream1.freetv.fun/cbs-sports-network-usa-2.m3u8
@@ -20627,6 +20622,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]golf channel *e,https://stream1.freetv.fun/golf-channel--e-1.ctv
 [HD]golf channel *0,https://stream1.freetv.fun/golf-channel--0-1.ctv
 [HD]golf channel *wj,https://stream1.freetv.fun/golf-channel--wj-1.ctv
+[VGA]on golf,https://stream1.freetv.fun/on-golf-2.ctv
 [BD]hbo 2 *3,https://stream1.freetv.fun/hbo-2--3-1.ctv
 [VGA]hbo 2,https://stream1.freetv.fun/hbo-2-15.ctv
 [BD]hbo *3,https://stream1.freetv.fun/hbo--3-1.ctv
@@ -20650,7 +20646,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [SD]hbo family *3,https://stream1.freetv.fun/hbo-family--3-1.ctv
 [BD]hbo family(usa) *s,https://stream1.freetv.fun/hbo-family--s-1.m3u8
 [BD]hbo family *wj,https://stream1.freetv.fun/hbo-family--wj-2.ctv
-[SD]hbo family,https://stream1.freetv.fun/hbo-family-9.m3u8
 [HD]hbo family,https://stream1.freetv.fun/hbo-family-6.m3u8
 [HD]hbo family,https://stream1.freetv.fun/hbo-family-1.ctv
 [SD]hbo family,https://stream1.freetv.fun/hbo-family-4.m3u8
@@ -20736,7 +20731,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]love hip hop,https://stream1.freetv.fun/love-hip-hop-1.m3u8
 [HD]tv max,https://stream1.freetv.fun/tv-max-3.m3u8
 [HD]tv max,https://stream1.freetv.fun/tv-max-2.m3u8
-[HD]msg,https://stream1.freetv.fun/msg-3.ctv
+[SD]msg,https://stream1.freetv.fun/msg-3.ctv
 [BD]mgm *3,https://stream1.freetv.fun/mgm--3-1.ctv
 [HD]msnbc,https://stream1.freetv.fun/msnbc-6.m3u8
 [BD]msnbc usa,https://stream1.freetv.fun/msnbc-usa-1.ctv
@@ -20842,7 +20837,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [VGA]nick music,https://stream1.freetv.fun/nick-music-1.ctv
 [VGA]nick music,https://stream1.freetv.fun/nick-music-4.m3u8
 [VGA]nick music,https://stream1.freetv.fun/nick-music-2.m3u8
-[BD]outdoor channel,https://stream1.freetv.fun/outdoor-channel-3.m3u8
+[VGA]outdoor channel,https://stream1.freetv.fun/outdoor-channel-3.m3u8
 [BD]outdoor channel,https://stream1.freetv.fun/outdoor-channel-4.m3u8
 [HD]outdoor channel,https://stream1.freetv.fun/outdoor-channel-1.m3u8
 [VGA]outdoor channel us sd,https://stream1.freetv.fun/outdoor-channel-us-sd-1.ctv
@@ -21114,11 +21109,11 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 [HD]sctv8,https://stream1.freetv.fun/sctv8-3.m3u8
 [HD]rov tv,https://stream1.freetv.fun/rov-tv-1.m3u8
 [BD]voa tv,https://stream1.freetv.fun/voa-tv-2.m3u8
+[BD]th cần thơ,https://stream1.freetv.fun/th-can-tho-1.m3u8
 [VGA]vtv1,https://stream1.freetv.fun/vtv1-6.m3u8
 [BD]tvb việt nam,https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 [BD]vtv4,https://stream1.freetv.fun/vtv4-1.m3u8
 [SD]vtv4,https://stream1.freetv.fun/vtv4-4.m3u8
-[BD]vtv9,https://stream1.freetv.fun/vtv9-1.m3u8
 [HD]th đắk lắk,https://stream1.freetv.fun/th-dak-lak-1.m3u8
 [HD]drt - th báo đắk lắk,https://stream1.freetv.fun/drt---th-bao-dak-lak-1.ctv
 [VGA]th đồng nai,https://stream1.freetv.fun/th-dong-nai-2.m3u8
@@ -27401,7 +27396,6 @@ CCTV1,http://ygbh.site/php/bfgd.php?id=489
 四川卫视,http://ak6668768.zicp.io:8839/live1041.m3u8
 CCTV15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef366a1870f56c11b57c90.m3u8
 篮球过人技巧,http://zzy789.xyz/douyu1.php?id=9406897
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
 CCTV14,http://sh.lnott.top:880/dx14.m3u8
 天津卫视,http://live.sxrtv.com/iptv/tjws.m3u8
@@ -27427,7 +27421,6 @@ CCTV4,https://www.freetv.top/migu/608807416.m3u8?migutoken=cfc1141967eb2f06f62ca
 山东卫视,https://stream1.freetv.fun/c98c710b867198d8033667e191f55f8c562aed0832e4a4e9c239f864f1068d02.m3u8
 CCTV15,https://stream1.freetv.fun/7a469fc9c2460ee4606dd25f46d797d9a4b1c87000b56107eb7d99ec9a093c1c.m3u8
 CCTV5,http://yemingjkl.x3322.net:35455/bptv/10000100000000050000000003870748.m3u8
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-4.ctv
 青海卫视,https://stream1.freetv.fun/1372e179a485ae97bd73883d9c82e6bd11eb85a5f24161242c23aca1d24a2612.m3u8
 平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?
 四川卫视,https://stream1.freetv.fun/a4fd9fe1601ae0bc171653ec9e7056ffc25b4db1c0b9b2c51f93629dbef064ae.m3u8
@@ -27442,7 +27435,6 @@ CCTV14,https://stream1.freetv.fun/8d9504bb6f6aaf6b37307fbeafa1e2ef9f16b67f19aa1b
 贾玲经典小品,https://live.iill.top/douyu/10419541
 CCTV2,https://tv.iill.top/migu/cctv2
 NHK Kishou Saigai (360p) [Not 24/7],https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-7.ctv
 CCTV7,https://stream1.freetv.fun/1ac4f534b2dbb039f6e3c6a98e44d0088fd1d34213687143a1ee521df16a4f90.m3u8
 舟老师丶,https://live.iill.top/douyu/39300
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-22.ctv
@@ -28084,7 +28076,6 @@ CCTV6,http://sh.lnott.top:880/dx06.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-4.ctv
 广东卫视,http://sh.lnott.top:880/dx40.m3u8
 红灯亮时丶右转,http://zzy789.xyz/douyu1.php?id=8971159
-嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-14.ctv
 嘴巴鼻子没有沟,http://zzy789.xyz/douyu1.php?id=10217984
 当铁手团遇到光复社,http://lxajh.top/tv/douyu.php?id=5875025
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
