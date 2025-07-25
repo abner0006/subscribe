@@ -1,4 +1,4 @@
-# 更新标记: 2025-07-25 14:05:07
+# 更新标记: 2025-07-25 17:56:26
 央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV2,http://go.bkpcp.top/mg/cctv2
@@ -183,15 +183,15 @@ NewTV军事评论,http://111.43.126.240:9003/hls/91/index.m3u8
 NewTV农业致富,http://111.43.126.240:9003/hls/92/index.m3u8
 NewTV家庭剧场,http://111.43.126.240:9003/hls/83/index.m3u8
 NewTV中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8
-CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4156&tk=f6cc1e0a0e1a
-CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-4.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
+CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
+求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-7.m3u8
 求索生活,http://ygbh.site/php/bfgd.php?id=288
 求索动物,http://ygbh.site/php/bfgd.php?id=287
 纪实科教,https://cc06.tv12.xyz/28.m3u8
-黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
-黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5767&tk=a0c4f6cfaba3
-精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79f
+黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6356&tk=abed47f08529
+黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1563&tk=b53028476470
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 金牌综艺,http://111.43.126.240:9003/hls/90/index.m3u8
 
 
@@ -204,7 +204,6 @@ CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
 内蒙少儿,http://api2.52tb.xyz/info?id=784&token=20230218qkyjia
 动漫秀场,http://120.55.49.231:3095/rtp/233.50.201.184:5140
 卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8
-名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
 哆啦A梦「动漫」,https://live.iill.top/huya/11601963
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 嘉佳卡通,http://1b6467f415.iok.la:9931/tsfile/live/1053_1.m3u8
@@ -226,9 +225,9 @@ Nick少儿,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
 
 
 更新时间,#genre#
-20250725 21:08:47,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
+20250726 01:39:39,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
 xiaoranmuze,https://vd3.bdstatic.com/mda-nia9gqywiryyn8pk/576p/h264/1662878654763005591/mda-nia9gqywiryyn8pk.mp4
-每日一首,http://em.21dtv.com/songs/60052419.mkv
+每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
 🔥低调,https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 🔥使用,https://txmov2.a.kwimgs.com/bs3/videohls/5251197255879398624_hlshd15.m3u8
 🔥禁止,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
