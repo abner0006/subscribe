@@ -1,0 +1,55 @@
+name: 'update_live ☞ assets/snapshot/'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '03 18 * 1 *'
+
+jobs:
+  update-live:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      # 新增：强制同步远程代码（应对仓库重建）
+      - name: 强制同步远程代码
+        run: git fetch --prune && git reset --hard origin/main
+
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行更新脚本
+        run: |
+          cd assets/snapshot/
+          python update_live.py  
+
+      - name: 无条件推送（优化逻辑）
+        run: |
+          # 配置 Git 身份
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          
+          # 强制添加文件（不管本地状态）
+          git add assets/snapshot/live.txt  
+          
+          # 提交（失败也继续，用 || true 跳过错误）
+          git commit -m "自动更新直播源: $(date +'%Y-%m-%d %H:%M')" || true  
+          
+          # 拉取远程最新代码，添加冲突处理
+          git pull origin main --rebase --autostash || {
+            echo "变基冲突，自动用远程最新代码覆盖本地";
+            git rebase --abort;
+            git pull origin main --force;
+          }
+          # 优化推送逻辑
+          git push origin main --force-with-lease || git push origin main --force
